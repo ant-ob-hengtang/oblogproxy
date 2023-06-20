@@ -102,3 +102,5 @@ Contributions are warmly welcomed and greatly appreciated. Here are a few ways y
 In case you have any problems when using OceanBase LogProxy, welcome reach out for help:
 - [GitHub Issue](https://github.com/oceanbase/oblogproxy/issues)
 - [Official Website](https://open.oceanbase.com/)
+
+尝试看一下
